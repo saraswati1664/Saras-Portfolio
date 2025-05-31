@@ -497,6 +497,18 @@ nav a:hover::after {
   text-decoration: none;
   transition: all 0.3s;
 }
+@media (max-width: 768px) {
+  .project-links {
+    flex-direction: column; /* Stack vertically */
+    align-items: center;    /* Center horizontally */
+    gap: 10px;
+  }
+  
+  .project-link {
+    min-width: 180px;       /* Wider buttons for mobile */
+    justify-content: center; /* Center text inside button */
+  }
+}
 
 .live-link {
   background: var(--gradient);
