@@ -627,15 +627,20 @@ nav a:hover::after {
   margin-bottom: 0.5rem;
 }
 
-.contact-text p, .contact-text a {
+.contact-text p {
   color: #666;
   text-decoration: none;
   transition: color 0.3s;
 }
-
-.contact-text a:hover {
-  color: var(--primary);
+.contact-text a{
+  color: var(--dark);
+  text-decoration: none;
+  transition: color 0.3s;
 }
+
+/* .contact-text a:hover {
+  color: var(--primary);
+} */
 
 .contact-form {
   background: white;
