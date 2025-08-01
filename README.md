@@ -23,7 +23,7 @@ Whether you're a recruiter, a fellow developer, or just curious — feel free to
 
 ## 📸 Screenshots
 
-![Portfolio Preview](/image/my%20gibli%202.jpg) <!-- Optional: replace with actual screenshot -->
+<img src="/image/MY GIBLI.jpg" alt="Portfolio Preview" width="500" height="300"/> <!-- Optional: replace with actual screenshot -->
 
 ## 📌 Live Demo
 
