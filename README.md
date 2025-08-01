@@ -1,6 +1,7 @@
 # 💁‍♀️ Saraswati's Portfolio Website
 
 Welcome to my personal developer portfolio! This website showcases my projects, skills, and a little bit about me.
+![Portfolio Preview](/image/Screenshot1.png) 
 
 ## 💻 Tech Stack
 
@@ -20,7 +21,7 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 
 ## 📸 Screenshots
 
-![Portfolio Preview](/image/Screenshot1.png) <!-- Optional: replace with actual screenshot -->
+![Portfolio Preview](/image/Screenshot%202025-08-01%20235220.png) <!-- Optional: replace with actual screenshot -->
 
 ## 📌 Live Demo
 
