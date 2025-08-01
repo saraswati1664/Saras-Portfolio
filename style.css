@@ -234,9 +234,9 @@ nav a:hover::after {
 }
 
 .btn-primary {
-  background: var(--gradient);
+  border: var(--gradient);
   color: white;
-  box-shadow: 0 4px 15px rgba(255, 77, 77, 0.4);
+  /* box-shadow: 0 4px 15px rgba(255, 77, 77, 0.4); */
 }
 
 .btn-primary:hover {
@@ -772,6 +772,7 @@ textarea.form-control {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
+  text-decoration: none;
 }
 
 .social-link::before {
@@ -897,6 +898,7 @@ footer {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
   z-index: 999;
   transform: translateY(20px);
+  text-decoration: none;
 }
 
 .back-to-top.active {
