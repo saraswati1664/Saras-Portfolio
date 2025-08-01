@@ -49,7 +49,6 @@ You can clone this repo and explore the code:
 git clone git clone https://github.com/saraswati1664/Saras-Portfolio.git
 cd Saras-Portfolio
 
-cd Saras-Portfolio
 
 📬 Contact Me
 
