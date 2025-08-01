@@ -1,6 +1,8 @@
 # 💁‍♀️ Saraswati's Portfolio Website
 
 Welcome to my personal developer portfolio! This website showcases my projects, skills, and a little bit about me.
+I’m passionate about creating beautiful, responsive websites and web apps that solve real-world problems.
+Whether you're a recruiter, a fellow developer, or just curious — feel free to explore and connect with me!
 ![Portfolio Preview](/image/Screenshot1.png) 
 
 ## 💻 Tech Stack
