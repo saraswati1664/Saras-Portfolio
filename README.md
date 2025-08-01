@@ -20,7 +20,7 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 
 ## 📸 Screenshots
 
-![Portfolio Preview](SARAS-PORTFOILIO/images/Screenshot1.png) <!-- Optional: replace with actual screenshot -->
+![Portfolio Preview](/image/Screenshot1.png) <!-- Optional: replace with actual screenshot -->
 
 ## 📌 Live Demo
 
