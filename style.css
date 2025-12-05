@@ -269,7 +269,7 @@ nav a:hover::after {
 }
 
 .hero-image img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   border-radius: 20px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
@@ -396,7 +396,7 @@ nav a:hover::after {
 }
 
 .about-image img {
-  max-width: 100%;
+  max-width: 90%;
   border-radius: 15px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
   transition: transform 0.5s;
@@ -406,7 +406,6 @@ nav a:hover::after {
   transform: scale(1.03);
 }
 
-/* Projects Section */
 /* Projects Section */
 #projects {
   background: white;
@@ -462,7 +461,7 @@ nav a:hover::after {
 .project-info p {
   color: #666;
   margin-bottom: 20px;
-  flex-grow: 1;
+  /* flex-grow: 1; */
 }
 
 .project-tags {
@@ -490,12 +489,13 @@ nav a:hover::after {
 .project-link {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 8px 16px;
+  gap: 15px;
+  padding: 4px 13px;
   border-radius: 50px;
   font-weight: 600;
   text-decoration: none;
   transition: all 0.3s;
+  line-height: normal;
 }
 @media (max-width: 768px) {
   .project-links {
@@ -715,7 +715,7 @@ textarea.form-control {
 /* Social Section */
 .social-section {
   text-align: center;
-  padding: 4rem 0;
+  /* padding: 4rem 0; */
   background: var(--gradient);
   color: white;
   position: relative;
