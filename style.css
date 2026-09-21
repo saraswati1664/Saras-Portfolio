@@ -411,7 +411,7 @@ nav a:hover::after {
   background: white;
   position: relative;
   overflow: hidden;
-  padding: 80px 0;
+  padding: 60px 0;
 }
 
 .project-grid {
@@ -461,9 +461,18 @@ nav a:hover::after {
 .project-info p {
   color: #666;
   margin-bottom: 20px;
-  /* flex-grow: 1; */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  cursor: pointer;
 }
 
+.project-info p.expanded {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+}
 .project-tags {
   display: flex;
   flex-wrap: wrap;
