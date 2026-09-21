@@ -699,7 +699,12 @@ textarea.form-control {
   position: relative;
   overflow: hidden;
 }
-
+.single-btn-wrap{
+  justify-content: center;
+}
+.single-btn{
+  padding: 15px;
+}
 /* .submit-btn::after {
   content: '';
   position: absolute;
